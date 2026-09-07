@@ -1,5 +1,7 @@
 # XML Formatter & Validator
 
+**Live demo:** https://babug01.github.io/xml-formatter/
+
 An XML formatter, minifier, and validator with a real code editor and a collapsible tree view.
 Runs entirely in the browser; nothing you paste ever leaves your machine.
 
