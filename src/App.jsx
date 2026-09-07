@@ -259,7 +259,7 @@ export default function App() {
 
   return (
     <div style={styles.root}>
-      <Header title="XML Formatter & Validator" repoUrl={REPO_URL} />
+      <Header repoUrl={REPO_URL} />
       <div style={styles.content}>
         <div style={styles.header}>
           <h1 style={styles.title}>XML Formatter &amp; Validator</h1>
